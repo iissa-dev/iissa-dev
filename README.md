@@ -1,4 +1,6 @@
-# Hi, I'm Issa Atieh ⚡
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Issa+Atieh+%F0%9F%91%8B;Full-Stack+Web+Developer;Backend+.NET+Developer;React+%26+TypeScript+Developer;Building+Scalable+Applications" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <strong>Full-Stack Web Developer</strong> specializing in <strong>C#, .NET, React, and TypeScript</strong>.<br>
