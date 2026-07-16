@@ -1,32 +1,128 @@
-# 💫 About Me:
-Full-stack ASP.NET developer and CS student. Experienced with JS, CSS, HTML, SQL, and T-SQL. Always exploring new technologies and improving my skills through projects.
+# Hi, I'm Issa Atieh ⚡
 
+<p align="center">
+  <strong>Full-Stack Web Developer</strong> specializing in <strong>C#, .NET, React, and TypeScript</strong>.<br>
+  Building secure, scalable web applications with <strong>Clean Architecture</strong>, <strong>SOLID Principles</strong>, and modern development practices.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iissa.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/issa-mo-atieh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:issaa0525@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T-SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iissa-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iissa-dev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iissa-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://iissa.dev">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-iissa.dev-61DAFB?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/iissa-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:issaa0525@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iissa-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👤 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+🎓 **B.Sc. Computer Science**
+Jerash National University *(Expected Graduation: May 2027)*
+
+📍 **Location:** Amman, Jordan
+
+💻 Passionate about designing scalable backend systems and modern full-stack applications.
+
+🚀 Current interests:
+
+* Clean Architecture
+* ASP.NET Core
+* React
+* API Security
+* CQRS
+* System Design
+* Performance Optimization
+
+</td>
+
+<td align="center" width="35%">
+
+## 💻
+
+### *Keep Coding.*
+
+Building reliable software one project at a time.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 LibraryMS <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
+
+Enterprise-grade **Library Management System** built around **Clean Architecture** and modern backend practices.
+
+### Technologies
+
+`.NET` • `ASP.NET Core` • `Entity Framework Core` • `MediatR` • `SignalR` • `React` • `TypeScript` • `Tailwind CSS` • `SQL Server` • `TanStack Query`
+
+### Highlights
+
+* Clean Architecture
+* CQRS with MediatR
+* SignalR real-time notifications
+* Specification Pattern
+* Secure authentication & authorization
+* Optimized database queries
+* PowerShell environment automation
+* Responsive React UI
+
+---
+
+## 🛠️ Maintenance Task Tracker <img src="https://img.shields.io/badge/Status-Completed-blue?style=flat-square">
+
+Full-stack maintenance management platform for monitoring assets, scheduling maintenance, and generating reports.
+
+### Technologies
+
+`ASP.NET Core` • `Entity Framework Core` • `React` • `Tailwind CSS` • `SQL Server`
+
+### Highlights
+
+* Dashboard & analytics
+* Maintenance scheduling
+* Reporting system
+* Responsive interface
+* Automated local setup
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iissa-dev&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/iissa-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:issaa0525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://iissa.dev">
+    <img src="https://img.shields.io/badge/Website-61DAFB?style=for-the-badge&logo=google-chrome&logoColor=black">
+  </a>
+</p>
+
+<p align="center">
+  <sub><strong>&lt;coded_with_passion_by_issa_atieh /&gt;</strong></sub>
+</p>
